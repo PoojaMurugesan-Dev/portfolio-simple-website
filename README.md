@@ -1,1 +1,1 @@
-# portfolio-simple-website
+Welcome to my portfolio website! This project showcases my personal portfolio, highlighting my skills and achievements. The website is built using HTML and basic CSS to ensure a clean, responsive, and user-friendly design.# portfolio-simple-website

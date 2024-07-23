@@ -1,11 +1,8 @@
 Portfolio Website
-Welcome to my portfolio website! This project showcases my personal portfolio, highlighting my skills, projects, and achievements. The website is built using HTML and basic CSS to ensure a clean, responsive, and user-friendly design.
-
+Welcome to my portfolio website! This project showcases my personal portfolio, highlighting my skills and contact information. The website is built using HTML and basic CSS to ensure a clean, responsive, and user-friendly design.
 Features
-Home Page: A brief introduction about myself.
-About Me: Detailed information about my background, skills, and interests.
-Projects: A showcase of my projects with descriptions and links to their respective repositories or live demos.
-Contact: A contact form and my social media links.
+Home Page: A brief introduction about myself and an overview of my skills and achievements.
+Contact Page: A contact form and links to my social media profiles.
 Technologies Used
 HTML5: For structuring the content.
 CSS3: For styling the website and ensuring a responsive design.
